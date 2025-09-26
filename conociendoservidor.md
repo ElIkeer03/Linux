@@ -1,5 +1,5 @@
 # Conociendo El Servidor Linux
-## 1.1 Nombre del Host
+## 1.1 Comandos Nombre del Host
 
 ![hostname1](/img/hostnamess.png)
 
