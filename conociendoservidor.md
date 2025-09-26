@@ -16,3 +16,10 @@
 
 ![versionnucleo](/img/versionnucleo.png)
 
+## 1.4 Comandos de Memoria RAM:
+
+![memoriaram](/img/memoriaram.png)
+
+![cpu](/img/cpu.png)
+
+![cpu1](/img/cpu1.png)
