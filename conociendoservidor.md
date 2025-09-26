@@ -3,7 +3,6 @@
 - Comandos Nombre del host:
 
 ![hostname1](/img/hostnamess.png)
-
 ![hostname2](/img/hostnamectl.png)
 
 ![hostname3](/img/hostnamectl1.1.png)
