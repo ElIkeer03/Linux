@@ -1,6 +1,6 @@
 # Linux 
 
-![portada](img/portada.png)
+![portada](img/Portada.png)
 
 ## Índice  
 [1. Conociendo el servidor Linux](conociendoservidor.md)  
