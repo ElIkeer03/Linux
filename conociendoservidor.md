@@ -63,3 +63,9 @@
 ![interfaces](/img/interfaces.png)
 
 ![resolv](/img/resolv.conf.png)
+
+## 1.10 Comandos para Reiniciar la Red
+
+![status](/img/statusnetworking.png)
+
+![restart](/img/restartnetworking.png)
