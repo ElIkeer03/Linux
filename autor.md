@@ -2,4 +2,4 @@
 
 **Iker Cupillar Aliaga (ICA)**
 
-![portada](img/Portada.png)
+![portada](img/Portada.PNG)
