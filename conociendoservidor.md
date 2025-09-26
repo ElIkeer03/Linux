@@ -57,3 +57,9 @@
 ![pingoogle](/img/pingoogle.png)
 
 ![nslookup](/img/nslookup.png)
+
+## 1.9 Comandos de Configuración de la red:
+
+![interfaces](/img/interfaces.png)
+
+![resolv](/img/resolv.conf.png)
