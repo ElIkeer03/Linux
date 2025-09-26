@@ -12,3 +12,7 @@
 
 ![versiondelsistema](/img/versiondelsistema.png)
 
+## 1.3 Comandos Versión del núcleo y arquitectura:
+
+![versionnucleo](/img/versionnucleo.png)
+
