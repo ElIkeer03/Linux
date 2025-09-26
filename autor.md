@@ -1,3 +1,3 @@
 # Autor
 
-**Iker Cupillar Aliaga (ICA)**  
+## Iker Cupillar Aliaga (ICA)
