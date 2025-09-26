@@ -45,3 +45,15 @@
 ![group](/img/group.png)
 
 ![gshadow](/img/gshadow.png)
+
+## 1.8 Comandos de Información de la red:
+
+![ipa](/img/ipa.png)
+
+![ipr](/img/ipr.png)
+
+![pingenlace](/img/pingenlace.png)
+
+![pingoogle](/img/pingoogle.png)
+
+![nslookup](/img/nslookup.png)
