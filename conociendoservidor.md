@@ -30,8 +30,18 @@
 
 ![discos1](/img/fdisk-l.png)
 
-## 1.6 Comandos de Sistemas montados:
+## 1.6 Comandos de Sistemas montados y Tamaño de una carpeta:
 
 ![sistemasmontados](/img/sistemasmontados.png)
 
 ![tamañocarpeta](/img/tamañocarpeta.png)
+
+## 1.7 Comandos de Usuarios y grupos del sistema:
+
+![passwd](/img/passwd.png)
+
+![shadow](/img/shadow.png)
+
+![group](/img/group.png)
+
+![gshadow](/img/gshadow.png)
