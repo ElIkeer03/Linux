@@ -8,5 +8,7 @@
 
 ![hostname3](/img/hostnamectl1.1.png)
 
+## 1.2 Comandos Versión del sistema:
 
+![versiondelsistema](/img/versiondelsistema.png)
 
