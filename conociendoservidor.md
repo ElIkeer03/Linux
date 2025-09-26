@@ -69,3 +69,9 @@
 ![status](/img/statusnetworking.png)
 
 ![restart](/img/restartnetworking.png)
+
+![ifup](/img/ifup.png)
+
+![ifdown](/img/ifdown.png)
+
+![ifupifdown](/img/ifupifdown.png)
