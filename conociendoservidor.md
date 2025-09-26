@@ -23,3 +23,15 @@
 ![cpu](/img/cpu.png)
 
 ![cpu1](/img/cpu1.png)
+
+## 1.5 Comandos de Discos y particiones:
+
+![discos](/img/discos.png)
+
+![discos1](/img/fdisk-l.png)
+
+## 1.6 Comandos de Sistemas montados:
+
+![sistemasmontados](/img/sistemasmontados.png)
+
+![tamañocarpeta](/img/tamañocarpeta.png)
