@@ -28,7 +28,7 @@
 
 ![discos](/img/discos.png)
 
-![discos1](/img/fdisk-l.png)
+![discos1](/img/discoos.png)
 
 ## 1.6 Comandos de Sistemas montados y Tamaño de una carpeta:
 
@@ -75,3 +75,9 @@
 ![ifdown](/img/ifdown.png)
 
 ![ifupifdown](/img/ifupifdown.png)
+
+## 1.11 Comandos de la red: Otrea forma:
+
+![resolvconf2](/img/resolvconf.png)
+
+![instalar](/img/instalado.png)
